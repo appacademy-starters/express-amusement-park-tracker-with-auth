@@ -1,5 +1,5 @@
 
-# Express Authentication Guided Project
+# Amusement Park Tracker with Authentication
 
 This project picks up where the first Amusement Park Tracker project left off!
 In the provided starter project, you can view, create, update, and delete both
