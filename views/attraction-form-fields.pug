@@ -1,0 +1,8 @@
+
+include utils.pug
+
+input(type='hidden' name='_csrf' value=csrfToken)
++textField('Attraction Name', 'attractionName', attraction.attractionName)
++textField('Theme', 'theme', attraction.theme)
++textField('Opened', 'opened', attraction.opened, false, 'ex: 2000-01-31')
++textField('Riders per Vehicle', 'ridersPerVehicle', attraction.ridersPerVehicle)
