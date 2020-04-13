@@ -1,1 +1,2 @@
-# express-amusement-park-tracker-with-auth
+
+# Amusement Park Tracker with Authentication
